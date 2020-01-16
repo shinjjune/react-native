@@ -10,3 +10,6 @@ expo init Project_name
 cd Project_name
 npm start # you can also use: expo start
 ```
+
+
+설날에 
